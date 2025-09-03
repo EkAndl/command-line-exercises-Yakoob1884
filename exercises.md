@@ -6,6 +6,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 1) $ touch evaluate.txt
 
 2: Output hidden files.
+2) $ ls -la
 
 3: Output who the active user is.
 
