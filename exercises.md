@@ -2,17 +2,25 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 1) mkdir -p ~/cli_sandbox
 2) cd ~/cli_sandbox
 
-1: Create a file called "evaluate.txt".
+1: Create a file called "evaluate.txt". 
+1) $ touch evaluate.txt
 
 2: Output hidden files.
+1) $ ls -la
 
 3: Output who the active user is.
+1) $ whoami
 
 4: Output hidden files.
+1) $ ls -la
 
 5: Create a file "bay.txt" containing: "needle banish needle stock needle". Then output the sorted lines.
+1) $ echo "needle baish needle stock needle" > bay.txt
+2) $ sort bay.txt 
 
 6: Use: echo "evaluate recommend experienced pen advice" > "advice.txt" to create or overwrite "advice.txt".
+1) $ touch advice.txt
+2) $ echo "evaluate recommend experienced pen advice" > "advice.txt"
 
 7: Use: echo "cater terminal ethics cousin advantage" > "hill.txt" to create or overwrite "hill.txt".
 
