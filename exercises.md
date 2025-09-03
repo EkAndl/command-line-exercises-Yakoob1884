@@ -12,6 +12,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 1) $ whoami
 
 4: Output hidden files.
+1) $ ls -la
 
 5: Create a file "bay.txt" containing: "needle banish needle stock needle". Then output the sorted lines.
 
