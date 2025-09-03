@@ -2,8 +2,8 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 1) mkdir -p ~/cli_sandbox
 2) cd ~/cli_sandbox
 
-1: Create a file called "evaluate.txt".
-$ touch evaluate.txt
+1: Create a file called "evaluate.txt". 
+1) $ touch evaluate.txt
 
 2: Output hidden files.
 
