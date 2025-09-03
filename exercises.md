@@ -19,6 +19,8 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 2) $ sort bay.txt 
 
 6: Use: echo "evaluate recommend experienced pen advice" > "advice.txt" to create or overwrite "advice.txt".
+1) $ touch advice.txt
+2) $ echo "evaluate recommend experienced pen advice" > "advice.txt"
 
 7: Use: echo "cater terminal ethics cousin advantage" > "hill.txt" to create or overwrite "hill.txt".
 
