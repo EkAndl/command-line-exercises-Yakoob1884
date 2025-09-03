@@ -15,6 +15,8 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 1) $ ls -la
 
 5: Create a file "bay.txt" containing: "needle banish needle stock needle". Then output the sorted lines.
+1) $ echo "needle baish needle stock needle" > bay.txt
+2) $ sort bay.txt 
 
 6: Use: echo "evaluate recommend experienced pen advice" > "advice.txt" to create or overwrite "advice.txt".
 
